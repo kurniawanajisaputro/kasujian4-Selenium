@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-07T22:52:16 WIB" name="Coba-Suite-1" finished-at="2024-05-07T22:52:54 WIB" duration-ms="38896">
+    <groups>
+    </groups>
+    <test started-at="2024-05-07T22:52:16 WIB" name="Ujian Login Negatif" finished-at="2024-05-07T22:52:54 WIB" duration-ms="38896">
+      <class name="com.juaracoding.kasujian4.ujian4.impl.LoginNegatif">
+        <test-method is-config="true" signature="initCase()[pri:0, instance:com.juaracoding.kasujian4.ujian4.impl.LoginNegatif@4b5d6a01]" started-at="2024-05-07T22:52:16 WIB" name="initCase" finished-at="2024-05-07T22:52:17 WIB" duration-ms="1839" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initCase -->
+        <test-method signature="emptyLogin()[pri:0, instance:com.juaracoding.kasujian4.ujian4.impl.LoginNegatif@4b5d6a01]" started-at="2024-05-07T22:52:17 WIB" name="emptyLogin" finished-at="2024-05-07T22:52:26 WIB" duration-ms="8816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyLogin -->
+        <test-method signature="invalidPassword()[pri:1, instance:com.juaracoding.kasujian4.ujian4.impl.LoginNegatif@4b5d6a01]" started-at="2024-05-07T22:52:26 WIB" name="invalidPassword" finished-at="2024-05-07T22:52:35 WIB" duration-ms="8979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPassword -->
+        <test-method signature="invalidUsername()[pri:2, instance:com.juaracoding.kasujian4.ujian4.impl.LoginNegatif@4b5d6a01]" started-at="2024-05-07T22:52:35 WIB" name="invalidUsername" finished-at="2024-05-07T22:52:44 WIB" duration-ms="8679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUsername -->
+        <test-method signature="invalidLogin()[pri:3, instance:com.juaracoding.kasujian4.ujian4.impl.LoginNegatif@4b5d6a01]" started-at="2024-05-07T22:52:44 WIB" name="invalidLogin" finished-at="2024-05-07T22:52:53 WIB" duration-ms="8673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLogin -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.juaracoding.kasujian4.ujian4.impl.LoginNegatif@4b5d6a01]" started-at="2024-05-07T22:52:53 WIB" name="closeDriver" finished-at="2024-05-07T22:52:54 WIB" duration-ms="1905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.juaracoding.kasujian4.ujian4.impl.LoginNegatif -->
+    </test> <!-- Ujian Login Negatif -->
+  </suite> <!-- Coba-Suite-1 -->
+  <suite started-at="2024-05-07T22:52:54 WIB" name="Coba-Suite-2" finished-at="2024-05-07T22:53:42 WIB" duration-ms="48027">
+    <groups>
+    </groups>
+    <test started-at="2024-05-07T22:52:54 WIB" name="Ujian Login Soal11" finished-at="2024-05-07T22:53:42 WIB" duration-ms="48027">
+      <class name="com.juaracoding.kasujian4.ujian4.impl.Step1Soal11">
+        <test-method is-config="true" signature="initCase()[pri:0, instance:com.juaracoding.kasujian4.ujian4.impl.Step1Soal11@4b0b0854]" started-at="2024-05-07T22:52:54 WIB" name="initCase" finished-at="2024-05-07T22:52:56 WIB" duration-ms="1653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initCase -->
+        <test-method signature="validLogin()[pri:0, instance:com.juaracoding.kasujian4.ujian4.impl.Step1Soal11@4b0b0854]" started-at="2024-05-07T22:52:56 WIB" name="validLogin" finished-at="2024-05-07T22:53:23 WIB" duration-ms="26575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method signature="homeToSoal11()[pri:1, instance:com.juaracoding.kasujian4.ujian4.impl.Step1Soal11@4b0b0854]" started-at="2024-05-07T22:53:23 WIB" name="homeToSoal11" finished-at="2024-05-07T22:53:23 WIB" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeToSoal11 -->
+        <test-method signature="inputDataSoal11()[pri:2, instance:com.juaracoding.kasujian4.ujian4.impl.Step1Soal11@4b0b0854]" started-at="2024-05-07T22:53:23 WIB" name="inputDataSoal11" finished-at="2024-05-07T22:53:42 WIB" duration-ms="18441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inputDataSoal11 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.juaracoding.kasujian4.ujian4.impl.Step1Soal11@4b0b0854]" started-at="2024-05-07T22:53:42 WIB" name="closeDriver" finished-at="2024-05-07T22:53:42 WIB" duration-ms="554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.juaracoding.kasujian4.ujian4.impl.Step1Soal11 -->
+    </test> <!-- Ujian Login Soal11 -->
+  </suite> <!-- Coba-Suite-2 -->
+  <suite started-at="2024-05-07T22:50:42 WIB" name="Coba-Suite-0" finished-at="2024-05-07T22:52:15 WIB" duration-ms="93165">
+    <groups>
+    </groups>
+    <test started-at="2024-05-07T22:50:42 WIB" name="Ujian Login Positf" finished-at="2024-05-07T22:52:15 WIB" duration-ms="93165">
+      <class name="com.juaracoding.kasujian4.ujian4.impl.LoginPositif">
+        <test-method is-config="true" signature="initCase()[pri:0, instance:com.juaracoding.kasujian4.ujian4.impl.LoginPositif@1677d1]" started-at="2024-05-07T22:50:42 WIB" name="initCase" finished-at="2024-05-07T22:51:45 WIB" duration-ms="62924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initCase -->
+        <test-method signature="validLogin()[pri:0, instance:com.juaracoding.kasujian4.ujian4.impl.LoginPositif@1677d1]" started-at="2024-05-07T22:51:45 WIB" name="validLogin" finished-at="2024-05-07T22:52:13 WIB" duration-ms="27820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method signature="logout()[pri:1, instance:com.juaracoding.kasujian4.ujian4.impl.LoginPositif@1677d1]" started-at="2024-05-07T22:52:13 WIB" name="logout" finished-at="2024-05-07T22:52:13 WIB" duration-ms="365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.juaracoding.kasujian4.ujian4.impl.LoginPositif@1677d1]" started-at="2024-05-07T22:52:13 WIB" name="closeDriver" finished-at="2024-05-07T22:52:15 WIB" duration-ms="1996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.juaracoding.kasujian4.ujian4.impl.LoginPositif -->
+    </test> <!-- Ujian Login Positf -->
+  </suite> <!-- Coba-Suite-0 -->
+</testng-results>
